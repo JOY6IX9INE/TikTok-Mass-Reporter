@@ -53,7 +53,7 @@ If you want to use proxy youself then put in `config.json`, in this format.
 
 ```json
 {
-  "proxy": "http://username:password@pip:port"
+  "proxy": "http://user:passw@pip:port"
 }
 ```
 
