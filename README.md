@@ -1,7 +1,9 @@
 
 # TikTok Mass Reporter
 
-![Preview](https://i.imgur.com/e4AeCy9_d.webp)
+<p align="center">
+  <img src="https://i.imgur.com/e4AeCy9_d.webp" alt="Preview" width="600">
+</p>
 This is a tool designed for mass reporting users on TikTok. It allows users to specify the number of threads for parallel processing and the type of report to be filed against the target user.
 
 ## Features
