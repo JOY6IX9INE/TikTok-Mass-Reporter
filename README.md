@@ -49,4 +49,3 @@ Contributions are welcome! If you'd like to improve the tool, feel free to fork 
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-```
