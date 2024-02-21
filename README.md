@@ -47,7 +47,7 @@ pip install -r requirements.txt
 2. Press `ctrl + shift + i` and open developer tools
 3. Go to the network tab and press `ctrl + l`
 4. Now report the user/video manually as soon as you report
-   you will see a new request which will contain the word `feedback`
+you will see a new request which will contain the word `feedback`
 5. Click on the request and copy the request url, thats  it!
    
 ## Configuration
