@@ -17,7 +17,7 @@ This tool is created for educational purposes and ethical use only. Any misuse o
 
 ## Requirements
 
-To run this tool, you need to have the following dependencies installed :
+To run this tool, you need to have the following dependencies installed:
 
 - `tls-client`
 - `httpx`
